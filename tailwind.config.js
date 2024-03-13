@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        body: "url('images/background.webp')",
+        body: "url('/src/assets/images/background.webp')",
         btn: "linear-gradient(39deg, rgba(158,128,46,1) 10%, rgba(4,17,27,1) 100%);",
       },
       animation: {
