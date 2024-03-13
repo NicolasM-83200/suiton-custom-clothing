@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+@layer base {
+  html {
+    font-family: "Abhaya Libre", system-ui, sans-serif;
+  }
+}
+#root {
+  @apply min-h-screen bg-body bg-cover bg-center relative overflow-hidden text-slate-200;
+}

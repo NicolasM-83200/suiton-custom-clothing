@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "images": [
+      "/images/clothe1.webp",
+      "/images/clothe1blue.webp",
+      "/images/clothe1marroon.webp"
+    ],
+    "titles": [
+      "Kincaid No. 2 Suit in Charcoal Plainweave",
+      "Kincaid No. 2 Suit in Navy Blue Plainweave",
+      "Kincaid No. 2 Suit in Espresso Twill"
+    ],
+    "review": "233",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta omnis quae architecto reprehenderit impedit accusamus assumenda ullam sit. Laudantium perferendis, similique qui natus accusamus officiis quos veniam tenetur corporis quo!"
+  },
+  {
+    "id": 2,
+    "images": [
+      "/images/clothe2.webp",
+      "/images/clothe2blue.webp",
+      "/images/clothe2marroon.webp"
+    ],
+    "titles": [
+      "Cheswick Royale: Deluxe Twill Suit, Charcoal Shade",
+      "Cheswick Royale: Deluxe Twill Suit, Navy Blue Shade",
+      "Cheswick Royale: Deluxe Twill Suit, Brown Shade"
+    ],
+    "review": "96",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint quo, minus dolore possimus, corporis earum tenetur maiores, praesentium ullam dignissimos necessitatibus ducimus. Odio corporis voluptas odit unde quaerat fugit cupiditate."
+  },
+  {
+    "id": 3,
+    "images": [
+      "/images/clothe3.webp",
+      "/images/clothe3blue.webp",
+      "/images/clothe3marroon.webp"
+    ],
+    "titles": [
+      "Azure Elegance: Sartorial Ensemble, Charcoal Plainweave",
+      "Azure Elegance: Sartorial Ensemble, Navy Blue Shade",
+      "Azure Elegance: Sartorial Ensemble, Espresso Twill"
+    ],
+    "review": "128",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam nisi natus, voluptas inventore doloremque maxime quo eligendi facilis in beatae placeat! Mollitia saepe reiciendis voluptates totam ipsa praesentium sit rem eum distinctio est fugiat molestiae, aspernatur blanditiis aliquid quod? Eum."
+  },
+  {
+    "id": 4,
+    "images": [
+      "/images/clothe1.webp",
+      "/images/clothe1blue.webp",
+      "/images/clothe1marroon.webp"
+    ],
+    "titles": [
+      "Kincaid No. 2 Suit in Charcoal Plainweave",
+      "Kincaid No. 2 Suit in Navy Blue Plainweave",
+      "Kincaid No. 2 Suit in Espresso Twill"
+    ],
+    "review": "233",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta omnis quae architecto reprehenderit impedit accusamus assumenda ullam sit. Laudantium perferendis, similique qui natus accusamus officiis quos veniam tenetur corporis quo!"
+  },
+  {
+    "id": 5,
+    "images": [
+      "/images/clothe2.webp",
+      "/images/clothe2blue.webp",
+      "/images/clothe2marroon.webp"
+    ],
+    "titles": [
+      "Cheswick Royale: Deluxe Twill Suit, Charcoal Shade",
+      "Cheswick Royale: Deluxe Twill Suit, Navy Blue Shade",
+      "Cheswick Royale: Deluxe Twill Suit, Brown Shade"
+    ],
+    "review": "96",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint quo, minus dolore possimus, corporis earum tenetur maiores, praesentium ullam dignissimos necessitatibus ducimus. Odio corporis voluptas odit unde quaerat fugit cupiditate."
+  },
+  {
+    "id": 6,
+    "images": [
+      "/images/clothe3.webp",
+      "/images/clothe3blue.webp",
+      "/images/clothe3marroon.webp"
+    ],
+    "titles": [
+      "Azure Elegance: Sartorial Ensemble, Charcoal Plainweave",
+      "Azure Elegance: Sartorial Ensemble, Navy Blue Shade",
+      "Azure Elegance: Sartorial Ensemble, Espresso Twill"
+    ],
+    "review": "128",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam nisi natus, voluptas inventore doloremque maxime quo eligendi facilis in beatae placeat! Mollitia saepe reiciendis voluptates totam ipsa praesentium sit rem eum distinctio est fugiat molestiae, aspernatur blanditiis aliquid quod? Eum."
+  }
+]
