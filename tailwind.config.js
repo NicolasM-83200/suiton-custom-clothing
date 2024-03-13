@@ -8,8 +8,8 @@ export default {
         btn: "linear-gradient(39deg, rgba(158,128,46,1) 10%, rgba(4,17,27,1) 100%);",
       },
       animation: {
-        fadeIn: "fadeIn 1s ease-in-out",
-        fadeOut: "fadeOut 1s ease-in-out",
+        fadeIn: "fadeIn 1s ease-in-out forwards",
+        fadeOut: "fadeOut 1s ease-in-out forwards",
         startExperience: "startExperience 1s ease-in-out forwards",
       },
       keyframes: {
